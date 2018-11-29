@@ -1,4 +1,2 @@
 # rakesh
 shafik
-ansari
-
